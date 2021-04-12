@@ -7,7 +7,7 @@ Here you will find all you need to replicate the experiments in our code.
 
 If you happen to use or modify this code, please remember to cite our paper:
 
-[Atzeni Daniele, Bacciu Davide, Errica Federico, Micheli Alessio: *Modeling Edge Features with Deep Bayesian Graph Networks*, IJCNN, 2021.
+Atzeni Daniele, Bacciu Davide, Errica Federico, Micheli Alessio: *Modeling Edge Features with Deep Bayesian Graph Networks*, IJCNN, 2021.
 
 ## Installation:
 (We assume **git** and **Miniconda/Anaconda** are installed)
