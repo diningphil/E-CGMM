@@ -1,5 +1,5 @@
 # The Extended Contextual Graph Markov Model (E-CGMM)
-### Making CGMM process arbitrary edge features
+### a.k.a. making CGMM process arbitrary edge features
 
 ## Description
 This library is a clone of our [PyDGN](https://github.com/diningphil/PyDGN) repository (pre-release of version 0.4.1) for easy experimentation and reproducibility with Deep Graph Networks.
