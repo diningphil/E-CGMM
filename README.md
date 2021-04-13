@@ -38,7 +38,7 @@ To debug your code it is useful to add `--debug` to the command above. Notice, h
 - If you have any inquiry or something does not work as expected (this repo is basically PyDGN but stripped of all non-relevant content), please contact us via email. We will do our best to help you.
 
 ### How to stop your experiment
-If you are in debug mode, a `CTRL-C` will be enough. Otherwise, you have to use `ray stop` to kill all processes.
+If you are in debug mode, a `CTRL-C` should be enough. Otherwise, you have to use `ray stop` to kill all processes.
 
 ## Contributing
 **This research software is provided as-is**.
