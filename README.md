@@ -35,6 +35,8 @@ To debug your code it is useful to add `--debug` to the command above. Notice, h
 
 - Then, you are ready to launch the experiments. In `ECGMM_MODEL_CONFIGS` you will find two types of experiment configuration files for each dataset and model. The first to be used should be the one that does not contain the word "classifier" in its name. For example, the `config_ECGMM_NCI1.yml` config file will launch an experiment that will store graph embeddings in the `/data/errica/ECGMM_EMBEDDINGS` folder (you should change this according to your own filesystem). The `config_ECGMMClassifier_NCI1.yml` config file, instead, will launch experiments using the graph embeddings stored in the `/data/errica/ECGMM_EMBEDDINGS` folder (again, please change the reference in the config file).
 
+- For the link prediction experiment, please refer to the `link_prediction_dode` folder, which follows a different procedure.
+
 - If you have any inquiry or something does not work as expected (this repo is basically PyDGN but stripped of all non-relevant content), please contact us via email. We will do our best to help you.
 
 ### How to stop your experiment

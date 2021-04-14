@@ -1,0 +1,15 @@
+{
+    "node_type" : "discrete",
+    "edge_type" : "discrete",
+    "dim_node_features" : 3,
+    "dim_edge_features" : 2,
+    "max_depth" : 20,
+    "L" : 1,
+    "max_epochs" : 10,
+    "C_n" : 20,
+    "use_cont_node" : [true, false],
+    "use_cont_edge" : [true, false],
+    "bigram" : [true, false],
+    "C_e" : [5, 10],
+    "layers" : [1, 5, 14, 19]
+}
