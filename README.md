@@ -7,7 +7,7 @@ Here you will find all you need to replicate the experiments in our code.
 
 If you happen to use or modify this code, please remember to cite our paper:
 
-[Atzeni Daniele, Bacciu Davide, Errica Federico, Micheli Alessio: *Modeling Edge Features with Deep Bayesian Graph Networks*, IJCNN, 2021.
+Atzeni Daniele, Bacciu Davide, Errica Federico, Micheli Alessio: *Modeling Edge Features with Deep Bayesian Graph Networks*, IJCNN, 2021.
 
 ## Installation:
 (We assume **git** and **Miniconda/Anaconda** are installed)
@@ -40,7 +40,7 @@ To debug your code it is useful to add `--debug` to the command above. Notice, h
 - If you have any inquiry or something does not work as expected (this repo is basically PyDGN but stripped of all non-relevant content), please contact us via email. We will do our best to help you.
 
 ### How to stop your experiment
-If you are in debug mode, a `CTRL-C` will be enough. Otherwise, you have to use `ray stop` to kill all processes.
+If you are in debug mode, a `CTRL-C` should be enough. Otherwise, you have to use `ray stop` to kill all processes.
 
 ## Contributing
 **This research software is provided as-is**.
