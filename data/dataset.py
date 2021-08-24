@@ -84,7 +84,6 @@ class DatasetInterface:
 class TUDatasetInterface(TUDataset, DatasetInterface):
 
     def __init__(self, root, name, transform=None, pre_transform=None, pre_filter=None, use_node_attr=False, use_edge_attr=False, cleaned=False):
-        print('PROVA')
         super().__init__(root, name, transform, pre_transform, pre_filter, use_node_attr, use_edge_attr, cleaned)
 
         if 'aspirin' in self.name:
