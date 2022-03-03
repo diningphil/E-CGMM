@@ -1,9 +1,0 @@
-{
-  "hidden_dim" : [128, 256],
-  "max_epochs_MLP" : 5000,
-  "lr" : [1e-3, 1e-4, 1e-5],
-  "weight_decay" : [0],
-  "early_stopping" : 100,
-  "mini_batch" : 500,
-  "output_dim" : 2
-}

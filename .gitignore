@@ -111,16 +111,13 @@ venv.bak/
 .idea
 
 # PROJECT
-*DATA*/**
-*SPLITS*/**
-*__pycache__/**
-Old_Baselines/**
+DATA/**
+DATA_SPLITS/**
+**__pycache__/**
 *RESULTS*/**
-*_EMBEDDINGS*/**
-*OUTPUTS*/**
+
 
 .idea/inspectionProfiles/Project_Default.xml
 *.xml
 models/.DS_Store
 .DS_Store
-*.png
