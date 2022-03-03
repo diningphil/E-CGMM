@@ -28,7 +28,7 @@ the classification experiments.
 #### Build dataset and data splits (follow PyDGN tutorial and use the data splits provided there)
 For instance:
 
-    pydgn-dataset --config-file DATA_CONFIGS/config_PROTEINS.yml
+    pydgn-dataset --config-file DATA_CONFIGS/config_PROTEINS_custom_transform.yml
 
 #### Train the model
 
